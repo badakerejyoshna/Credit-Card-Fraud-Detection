@@ -37,8 +37,8 @@ Running the notebook also produces `fraud_model.pkl`, `scaler.pkl`, and
 pip install -r requirements.txt
 ```
 
-1. Download `creditcard.csv` from Kaggle and place it in this folder
-2. Run `fraud_detection.ipynb` (Jupyter, VS Code, or Google Colab all work)
+1. Download `creditcard.csv` from Kaggle.
+2. Run `fraud_detection.ipynb` 
 3. `streamlit run app.py`
 
 Name:B.Jyoshna
