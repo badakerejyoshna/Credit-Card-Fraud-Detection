@@ -41,9 +41,6 @@ pip install -r requirements.txt
 2. Run `fraud_detection.ipynb` (Jupyter, VS Code, or Google Colab all work)
 3. `streamlit run app.py`
 
-## Possible extensions
+Name:B.Jyoshna
 
-- Try Random Forest or XGBoost for potentially stronger performance
-- Tune the classification threshold based on the cost of a missed fraud vs. a false
-  alarm
-- Explore SMOTE or other oversampling techniques for the class imbalance
+RollNo:24JR1A05C7
